@@ -1,0 +1,33 @@
+@import "../node_modules/@syncfusion/ej2-base/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-buttons/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-layouts/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-react-inputs/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-react-grids/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-navigations/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-react-kanban/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-image-editor/styles/material.css";
+
+.App {
+  text-align: center;
+}
+marquee {
+  color: red;
+  text-transform: uppercase;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.loginform {
+  background-color: blueviolet;
+  text-align: center;
+  margin: 10px;
+}
+
+.IMG {
+  min-height: 100vh;
+  margin-top: 5px;
+}
+.IMG img {
+  height: 100vh;
+  width: 1470px;
+}
